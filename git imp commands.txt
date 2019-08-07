@@ -1,0 +1,10 @@
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
+Create a new branch and push to remote and track too
+
+git checkout -b <branch>
+
+git push -u origin <branch>
+
+-u denote --set-upstream,git will set up the tracking information during push
+
